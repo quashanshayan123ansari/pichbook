@@ -1,0 +1,145 @@
+﻿======================================================================
+STAGE 4 CHECKS
+======================================================================
+
+CHECK 1: EV Bridge (Mkt Cap + Net Debt = EV)
+  ATLAS: Mkt Cap 262,752 + Net Debt 677.2 = EV 263,429.2 | Stored: 263,429.2 | PASS
+  HUL: Mkt Cap 455,000 + Net Debt -4,424.0 = EV 450,576.0 | Stored: 450,576.0 | PASS
+  Britannia: Mkt Cap 117,905 + Net Debt 1,186.8 = EV 119,091.8 | Stored: 119,091.8 | PASS
+  Marico: Mkt Cap 106,338 + Net Debt -1,596.0 = EV 104,742.0 | Stored: 104,742.0 | PASS
+  Dabur: Mkt Cap 68,404 + Net Debt -1,541.7 = EV 66,862.3 | Stored: 66,862.3 | PASS
+  TCPL: Mkt Cap 97,307 + Net Debt 962.3 = EV 98,269.3 | Stored: 98,269.3 | PASS
+
+CHECK 2: Per Share ├ù Shares = Mkt Cap
+  ATLAS: 1928.31M * Γé╣1362.6 = Γé╣262,752 Cr | Reported: Γé╣262,752 Cr | Gap: 0.0%
+  HUL: 2350.00M * Γé╣1942.9 = Γé╣456,582 Cr | Reported: Γé╣455,000 Cr | Gap: 0.3%
+  Britannia: 240.87M * Γé╣4939.0 = Γé╣118,966 Cr | Reported: Γé╣117,905 Cr | Gap: 0.9%
+  Marico: 1293.90M * Γé╣819.0 = Γé╣105,970 Cr | Reported: Γé╣106,338 Cr | Gap: 0.3%
+  Dabur: 1771.50M * Γé╣385.6 = Γé╣68,309 Cr | Reported: Γé╣68,404 Cr | Gap: 0.1%
+  TCPL: 989.50M * Γé╣983.0 = Γé╣97,268 Cr | Reported: Γé╣97,307 Cr | Gap: 0.0%
+
+======================================================================
+TRADING MULTIPLES (LTM = FY2026 for ATLAS; FY2025 for peers)
+Market Data Date: 25 September 2026
+======================================================================
+
+  ATLAS (LTM=FY2026):
+    EV/EBITDA (LTM): 49.6x
+    P/E (LTM): 74.1x
+    EV/Revenue (LTM): 11.38x
+    EBITDA Margin: 22.9%
+    PAT Margin: 15.3%
+
+  HUL (LTM=FY2025):
+    EV/EBITDA (LTM): 31.5x
+    P/E (LTM): 44.3x
+    EV/Revenue (LTM): 7.44x
+    EBITDA Margin: 23.6%
+    PAT Margin: 17.0%
+
+  Britannia (LTM=FY2025):
+    EV/EBITDA (LTM): 42.9x
+    P/E (LTM): 55.3x
+    EV/Revenue (LTM): 6.89x
+    EBITDA Margin: 16.1%
+    PAT Margin: 12.3%
+
+  Marico (LTM=FY2025):
+    EV/EBITDA (LTM): 49.0x
+    P/E (LTM): 64.1x
+    EV/Revenue (LTM): 9.67x
+    EBITDA Margin: 19.7%
+    PAT Margin: 15.3%
+
+  Dabur (LTM=FY2025):
+    EV/EBITDA (LTM): 28.9x
+    P/E (LTM): 39.3x
+    EV/Revenue (LTM): 5.32x
+    EBITDA Margin: 18.4%
+    PAT Margin: 13.9%
+
+  TCPL (LTM=FY2025):
+    EV/EBITDA (LTM): 39.3x
+    P/E (LTM): 75.6x
+    EV/Revenue (LTM): 5.58x
+    EBITDA Margin: 14.2%
+    PAT Margin: 7.3%
+
+======================================================================
+MARGIN BENCHMARKING ΓÇö FY2025 (all entities)
+======================================================================
+  ATLAS (FY2026 LTM): EBITDA 22.9% | PAT 15.3% | Gross 58.6%
+  HUL: EBITDA 23.6% | PAT 17.0%
+  Britannia: EBITDA 16.1% | PAT 12.3%
+  Marico: EBITDA 19.7% | PAT 15.3%
+  Dabur: EBITDA 18.4% | PAT 13.9%
+  TCPL: EBITDA 14.2% | PAT 7.3%
+
+======================================================================
+REVENUE GROWTH
+======================================================================
+  ATLAS Rev YoY FY25->FY26: 14.3%
+  ATLAS EBITDA YoY FY25->FY26: 11.2%
+  ATLAS PAT YoY FY25->FY26: 6.9%
+  HUL Rev CAGR FY23-FY25 (2yr): 0.9%
+  Britannia Rev CAGR FY23-FY25 (2yr): 5.2%
+  Marico Rev CAGR FY23-FY25 (2yr): 5.3%
+  Dabur Rev CAGR FY23-FY25 (2yr): 4.4%
+  TCPL Rev CAGR FY23-FY25 (2yr): 13.1%
+
+======================================================================
+DCF ASSUMPTIONS (Illustrative ΓÇö Analyst assumptions, not company guidance)
+======================================================================
+
+DCF SENSITIVITY GRID ΓÇö Value per Share (Γé╣)
+                 TGR=5.0%  TGR=5.5%  TGR=6.0%
+WACC=11%       Γé╣    350  Γé╣    371  Γé╣    397
+WACC=12%       Γé╣    296  Γé╣    310  Γé╣    327
+WACC=13%       Γé╣    255  Γé╣    265  Γé╣    277
+
+Base Case (WACC 12%, TGR 5.5%):
+  PV of FCFFs: Γé╣24,254 Cr
+  PV of Terminal Value: Γé╣36,208 Cr (59.9% of EV)
+  Enterprise Value: Γé╣60,462 Cr
+  Equity Value: Γé╣59,785 Cr
+  Value per Share: Γé╣310
+  Current Price: Γé╣1,362.60
+  Premium/(Discount): +339.5%
+
+CHECK ΓÇö Sensitivity grid centre (WACC 12%, TGR 5.5%) = Γé╣310 | Base case = Γé╣310 | PASS
+
+======================================================================
+CAPITALISATION ΓÇö ATLAS (25 Sep 2026)
+======================================================================
+  Mkt Cap: Γé╣ 262,752.0 Cr
+  (-) Cash: Γé╣     -76.2 Cr
+  (+) Total Debt: Γé╣     753.3 Cr
+  = Enterprise Value: Γé╣ 263,429.2 Cr
+
+  Net Debt / EBITDA (FY2026): 0.13x
+  Net Debt / EBITDA (FY2025): 0.14x
+
+======================================================================
+SUMMARY VALUATION ΓÇö ATLAS Implied Price per Share
+======================================================================
+
+Peer EV/EBITDA range: 28.9x - 49.0x | Median: 39.3x
+Peer P/E range: 39.3x - 75.6x | Median: 55.3x
+
+Trading Comps (EV/EBITDA, peer range applied to ATLAS FY2026 EBITDA):
+  Low (x28.9): Γé╣791 per share
+  High (x49.0): Γé╣1,345 per share
+
+Trading Comps (P/E, peer range applied to ATLAS FY2026 PAT):
+  Low (x39.3): Γé╣722 per share
+  High (x75.6): Γé╣1,390 per share
+
+DCF (Illustrative):
+  Range: Γé╣255 - Γé╣397 per share
+  Base: Γé╣310 per share
+
+Current Market Price (25 Sep 2026): Γé╣1,362.60
+
+======================================================================
+ALL COMPUTATIONS COMPLETE
+======================================================================

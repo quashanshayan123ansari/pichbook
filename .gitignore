@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Node / Dashboard
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+dashboard/build/
+.DS_Store
