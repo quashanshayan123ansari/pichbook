@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { dcfSensitivity } from "@/data/atlas";
 
 export default function SensitivityGrid() {
@@ -17,8 +18,8 @@ export default function SensitivityGrid() {
 
       {/* Data rows */}
       {waccs.map((w) => (
-        <>
-          <div className="sens-row-label" key={`label-${w}`}>
+        <React.Fragment key={w}>
+          <div className="sens-row-label">
             WACC = {(w * 100).toFixed(0)}%
           </div>
           {tgrs.map((t) => {
@@ -46,7 +47,7 @@ export default function SensitivityGrid() {
               </div>
             );
           })}
-        </>
+        </React.Fragment>
       ))}
     </div>
   );
